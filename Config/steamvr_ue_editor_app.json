@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.dpit_ue4-11100242.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "Z:/Drive/WProjects/DP_UE4/DPIT_UE4/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "DPIT_UE4-11100242 [UE Editor]"
+				}
+			}
+		}
+	]
+}
