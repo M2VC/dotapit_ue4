@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"Z:\\Drive\\UE_GDRIVE\\DPIT_UE4 4.25\\Plugins\\glTFForUE4\\Source\\glTFForUE4\\glTFForUE4.Build.cs",
+		"Z:\\Drive\\UE_GDRIVE\\DPIT_UE4 4.25\\Plugins\\glTFForUE4\\Source\\glTFForUE4Ed\\glTFForUE4Ed.Build.cs",
+		"Z:\\Drive\\UE_GDRIVE\\DPIT_UE4 4.25\\Plugins\\glTFForUE4\\Source\\ThirdParty\\libgltf_ue4\\libgltf_ue4.Build.cs",
+		"Z:\\Drive\\UE_GDRIVE\\DPIT_UE4 4.25\\Plugins\\glTFForUE4\\Source\\ThirdParty\\libdraco_ue4\\libdraco_ue4.Build.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
